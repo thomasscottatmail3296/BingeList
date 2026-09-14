@@ -1,0 +1,59 @@
+---
+title: "Classic Who — S18E11 — Full Circle, Part Three"
+type: episode
+series: "Classic Who"
+season: 18
+episode: 11
+status: "Not Watched"
+spoiler_summary: true
+---
+
+# S18E11 — Full Circle, Part Three
+
+◇ INFORMATION
+- Series: [[Classic Who]]
+- Season: 18
+- Episode: 11
+- Air date: 1980-11-08
+- Runtime: 25 min
+
+◇ WATCH STATUS
+- [ ] Watched
+- [ ] Rewatched
+- [ ] Favourite
+
+> [!spoiler]- SUMMARY — SPOILERS
+> Original source-grounded paraphrase: pending dedicated summary pass.
+
+> [!spoiler]- MAJOR SCENES — SPOILERS
+> Timestamps are release/version dependent.
+>
+> - `00:00` — Opening
+> - `00:00` — Major scene
+> - `00:00` — Major scene
+> - `00:00` — Ending
+
+◇ RELATIONSHIPS
+- Part of: [[Classic Who]]
+- Universe: [[Universe Map]]
+
+◇ SOURCES
+- Episode metadata: TVmaze episode guide / Wikipedia cross-check
+- Summary reference: pending dedicated summary pass
+- Timestamp reference: unavailable / unverified
+
+◇ VIEWING PLATFORMS
+
+[[07 - Data/Providers/Viewing Providers|◇ Open Australian Viewing Provider Directory]]
+
+### Free
+- Title availability: verify in provider directory / official site.
+
+### Torrent — Legal and Non-Legal
+- Legal: public-domain, rights-holder-authorised, or otherwise lawful distribution only.
+- Non-Legal: status may be documented without piracy-site links or acquisition instructions.
+
+### Paid
+- Provider: verify
+- Price (AUD): verify
+- Billing occurrence: verify
