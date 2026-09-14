@@ -1,0 +1,74 @@
+/* Binge Vault — Nerd Font glyph fallback
+ *
+ * Keeps normal prose in Obsidian's selected text font while allowing
+ * the bundled Nerd Font to supply glyphs that the text font lacks.
+ */
+@font-face {
+  font-family: "Binge Vault Glyph Fallback";
+  src: url("../../fonts/JetBrainsMonoNerdFont-Bold.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+.markdown-preview-view,
+.markdown-preview-view p,
+.markdown-preview-view li,
+.markdown-preview-view blockquote,
+.markdown-preview-view td,
+.markdown-preview-view th,
+.markdown-source-view.mod-cm6 .cm-content,
+.markdown-source-view.mod-cm6 .cm-line {
+  font-family: var(--font-text), "Binge Vault Glyph Fallback", sans-serif;
+}
+
+.markdown-preview-view h1, .markdown-preview-view h2, .markdown-preview-view h3,
+.markdown-preview-view h4, .markdown-preview-view h5, .markdown-preview-view h6,
+.markdown-source-view .cm-header {
+  font-family: "Binge Vault JetBrains Mono", var(--font-text), "Binge Vault Glyph Fallback", sans-serif;
+}
+
+.markdown-preview-view code, .markdown-preview-view pre,
+.markdown-source-view .cm-inline-code, .markdown-source-view .HyperMD-codeblock {
+  font-family: "Binge Vault JetBrains Mono", var(--font-monospace), monospace;
+}
+
+/* Shared provider logos: reliable in tables and normal notes. */
+.markdown-preview-view table img.provider-logo,
+.markdown-preview-view table img[alt*="provider" i],
+.markdown-preview-view table img[alt*="logo" i],
+.markdown-preview-view img.provider-logo {
+  display: inline-block;
+  width: auto;
+  height: auto;
+  max-width: 128px;
+  max-height: 128px;
+  object-fit: contain;
+  vertical-align: middle;
+}
+
+.markdown-preview-view table img.provider-logo.inline,
+.markdown-preview-view table img[alt*="provider" i] {
+  max-width: 32px;
+  max-height: 32px;
+}
+
+/* Native HTML details dropdowns. */
+.markdown-preview-view details {
+  margin: 0.75em 0;
+  padding: 0;
+}
+.markdown-preview-view details > summary {
+  cursor: pointer;
+  font-weight: 700;
+  user-select: none;
+}
+.markdown-preview-view details > summary::marker {
+  font-family: "Binge Vault Glyph Fallback", sans-serif;
+}
+
+/* Status controls created by the Binge Vault status plugin. */
+.binge-vault-status-select {
+  min-width: 190px;
+  font: inherit;
+}

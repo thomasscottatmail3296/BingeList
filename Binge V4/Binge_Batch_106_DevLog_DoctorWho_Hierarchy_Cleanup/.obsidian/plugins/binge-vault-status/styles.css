@@ -1,0 +1,5 @@
+/* Binge Vault status dropdown */
+.binge-vault-status-select {
+  min-width: 190px;
+  font-size: var(--font-ui-small);
+}

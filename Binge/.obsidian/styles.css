@@ -1,0 +1,85 @@
+/* Binge Vault — Batch 97 typography / link formatting */
+
+@font-face {
+  font-family: "Binge Vault JetBrains Mono";
+  src: url("../fonts/JetBrainsMonoNerdFont-Bold.ttf");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Binge Vault JetBrains Mono";
+  src: url("../fonts/JetBrainsMonoNerdFont-BoldItalic.ttf");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Binge Vault JetBrains Mono";
+  src: url("../fonts/JetBrainsMonoNerdFont-ExtraBold.ttf");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Technical headings without forcing the entire vault into a heavy monospace face. */
+.markdown-preview-view h1, .markdown-preview-view h2, .markdown-preview-view h3,
+.markdown-preview-view h4, .markdown-preview-view h5, .markdown-preview-view h6,
+.markdown-source-view .cm-header {
+  font-family: "Binge Vault JetBrains Mono", var(--font-text);
+  letter-spacing: -0.02em;
+}
+
+.markdown-preview-view code, .markdown-preview-view pre,
+.markdown-source-view .cm-inline-code, .markdown-source-view .HyperMD-codeblock {
+  font-family: "Binge Vault JetBrains Mono", var(--font-monospace);
+}
+
+/* Clean, high-contrast links. */
+.markdown-preview-view a, .markdown-source-view .cm-hmd-internal-link,
+.markdown-source-view .cm-link, .markdown-source-view .cm-url {
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.14em;
+}
+.markdown-preview-view a:hover, .markdown-source-view .cm-hmd-internal-link:hover {
+  text-decoration-thickness: 2px;
+}
+
+/* Provider-logo assets: keep a single shared image visually compact. */
+.markdown-preview-view img[alt*="provider" i],
+.markdown-preview-view img[alt*="logo" i],
+.markdown-preview-view .provider-logo {
+  max-width: 128px;
+  max-height: 128px;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  vertical-align: middle;
+}
+
+/* Inline provider marks beside human-readable links. */
+.provider-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
+  vertical-align: middle;
+}
+.provider-link img {
+  max-width: 1.15em;
+  max-height: 1.15em;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
+
+/* Comfortable source/reference blocks. */
+.markdown-preview-view .callout[data-callout="source"],
+.markdown-preview-view .callout[data-callout="sources"] {
+  border-left-width: 2px;
+}
+
+/* Keep long metadata paths readable without horizontal sprawl. */
+.markdown-preview-view .metadata-property-value,
+.markdown-preview-view .metadata-property-key {
+  overflow-wrap: anywhere;
+}

@@ -1,0 +1,27 @@
+# Classic Who — Season 20
+
+◇ EPISODES — 23 total
+
+- [[Classic Who/Season 20/S20E01 - Arc of Infinity, Part One]]
+- [[Classic Who/Season 20/S20E02 - Arc of Infinity, Part Two]]
+- [[Classic Who/Season 20/S20E03 - Arc of Infinity, Part Three]]
+- [[Classic Who/Season 20/S20E04 - Arc of Infinity, Part Four]]
+- [[Classic Who/Season 20/S20E05 - Snakedance, Part One]]
+- [[Classic Who/Season 20/S20E06 - Snakedance, Part Two]]
+- [[Classic Who/Season 20/S20E07 - Snakedance, Part Three]]
+- [[Classic Who/Season 20/S20E08 - Snakedance, Part Four]]
+- [[Classic Who/Season 20/S20E09 - Mawdryn Undead, Part One]]
+- [[Classic Who/Season 20/S20E10 - Mawdryn Undead, Part Two]]
+- [[Classic Who/Season 20/S20E11 - Mawdryn Undead, Part Three]]
+- [[Classic Who/Season 20/S20E12 - Mawdryn Undead, Part Four]]
+- [[Classic Who/Season 20/S20E13 - Terminus, Part One]]
+- [[Classic Who/Season 20/S20E14 - Terminus, Part Two]]
+- [[Classic Who/Season 20/S20E15 - Terminus, Part Three]]
+- [[Classic Who/Season 20/S20E16 - Terminus, Part Four]]
+- [[Classic Who/Season 20/S20E17 - Enlightenment, Part One]]
+- [[Classic Who/Season 20/S20E18 - Enlightenment, Part Two]]
+- [[Classic Who/Season 20/S20E19 - Enlightenment, Part Three]]
+- [[Classic Who/Season 20/S20E20 - Enlightenment, Part Four]]
+- [[Classic Who/Season 20/S20E21 - The King's Demons, Part One]]
+- [[Classic Who/Season 20/S20E22 - The King's Demons, Part Two]]
+- [[Classic Who/Season 20/S20E23 - The Five Doctors]]

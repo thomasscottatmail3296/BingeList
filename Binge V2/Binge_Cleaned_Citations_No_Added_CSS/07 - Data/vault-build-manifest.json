@@ -1,0 +1,160 @@
+{
+  "batches": [
+    {
+      "batch": 71,
+      "name": "Family Guy Metadata Normalization and Hulu Specials",
+      "episodes": 458,
+      "specials": 6,
+      "status": "complete"
+    },
+    {
+      "batch": 72,
+      "name": "Family Guy Summary Readiness Seasons 1-25",
+      "episodes": 458,
+      "status": "source-locked; prose pass pending"
+    },
+    {
+      "batch": 73,
+      "name": "Family Guy Summary Pass Audit Seasons 1-25",
+      "episodes_audited": 458,
+      "status": "audit_complete",
+      "summary_prose_status": "pending_source_retrieval"
+    },
+    {
+      "batch": 76,
+      "label": "Family Guy Spoiler Summaries Season 6",
+      "status": "completed",
+      "episodes_updated": 12
+    },
+    {
+      "batch": 77,
+      "label": "Family Guy Spoiler Summaries Season 7",
+      "status": "completed",
+      "episodes_updated": 16
+    },
+    {
+      "batch": 78,
+      "label": "Family Guy Spoiler Summaries Season 8",
+      "status": "completed",
+      "episodes_updated": 21
+    },
+    {
+      "batch": 79,
+      "label": "Family Guy Spoiler Summaries Season 9",
+      "status": "completed",
+      "episodes_updated": 18
+    },
+    {
+      "batch": 80,
+      "label": "Family Guy Spoiler Summaries Season 10",
+      "status": "completed",
+      "episodes_updated": 23
+    },
+    {
+      "batch": 81,
+      "label": "Family Guy Spoiler Summaries Season 11",
+      "status": "completed",
+      "episodes_updated": 22
+    },
+    {
+      "batch": 84,
+      "label": "Family Guy Spoiler Summaries Season 14",
+      "status": "completed",
+      "episodes_updated": 20
+    },
+    {
+      "batch": 85,
+      "label": "Family Guy Spoiler Summaries Season 15",
+      "status": "completed",
+      "episodes_updated": 20
+    },
+    {
+      "batch": 86,
+      "label": "Family Guy Spoiler Summaries Season 16",
+      "status": "completed",
+      "episodes_updated": 20
+    },
+    {
+      "batch": 87,
+      "label": "Family Guy Spoiler Summaries Season 17",
+      "status": "completed",
+      "episodes_updated": 20
+    },
+    {
+      "batch": 92,
+      "label": "Family Guy Spoiler Summaries Season 22",
+      "status": "completed",
+      "episodes_updated": 15
+    },
+    {
+      "batch": 93,
+      "label": "Family Guy Spoiler Summaries Season 23",
+      "status": "completed",
+      "episodes_updated": 18
+    },
+    {
+      "batch": 94,
+      "label": "Family Guy Spoiler Summaries Season 24",
+      "status": "completed",
+      "episodes_updated": 15
+    },
+    {
+      "batch": 95,
+      "label": "Vault-Wide Audit and QC",
+      "status": "completed",
+      "source_checkpoint": "Batch 94 — Family Guy Season 24",
+      "archive_entries": 3484,
+      "markdown_notes": 3338,
+      "family_guy_episode_notes": 458,
+      "family_guy_completed_summaries": 457,
+      "family_guy_pending_summary_notes": 1,
+      "duplicate_archive_entries": 0,
+      "unresolved_wikilink_references": 2108,
+      "zip_integrity": "PASS",
+      "remaining_family_guy_summary_work": 1
+    },
+    {
+      "batch": 96,
+      "label": "Vault Link Audit and Work Inventory",
+      "status": "completed",
+      "wikilinks_scanned": 13394,
+      "resolved_exact": 7137,
+      "ambiguous": 4147,
+      "unresolved": 2110
+    },
+    {
+      "batch": 97,
+      "label": "Typography and Link Formatting Baseline",
+      "status": "completed",
+      "source_checkpoint": "Batch 96 — Vault Link Audit and Work Inventory",
+      "changes": [
+        "Obsidian CSS typography baseline",
+        "shared provider-logo styling",
+        "provider link template",
+        "font/source documentation"
+      ],
+      "archive_entries": 3491
+    },
+    {
+      "batch": 104,
+      "label": "Final Verification and Source Lock",
+      "status": "completed",
+      "source_checkpoint": "Batch 103 — Final Index, Metadata & QC",
+      "archive_entries": 3576,
+      "markdown_notes": 3356,
+      "wikilinks_scanned": 16482,
+      "family_guy_episode_notes": 458,
+      "family_guy_completed_summaries": 457,
+      "family_guy_pending_summary_notes": 1,
+      "duplicate_archive_entries": 0,
+      "zip_integrity": "PASS",
+      "source_lock": "Family Guy S25E01 remains pending because it is scheduled for Feb 21, 2027"
+    }
+  ],
+  "latest_batch": 104,
+  "batch_91": {
+    "family_guy_summary_pass": "Seasons 18-21",
+    "episodes_updated": 80
+  },
+  "latest_checkpoint": "Batch 104 — Final Verification and Source Lock"
+}

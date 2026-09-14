@@ -1,0 +1,21 @@
+# DC TV Index
+
+- [[Arrow — Season 1]] — 8 seasons represented
+- [[The Flash — Season 1]] — 9 seasons represented
+- [[Supergirl — Season 1]] — 6 seasons represented
+- [[DC’s Legends of Tomorrow — Season 1]] — 7 seasons represented
+- [[Batwoman — Season 1]] — 3 seasons represented
+- [[Black Lightning — Season 1]] — 4 seasons represented
+- [[Stargirl — Season 1]] — 3 seasons represented
+- [[Titans — Season 1]] — 4 seasons represented
+- [[Doom Patrol — Season 1]] — 4 seasons represented
+- [[Gotham — Season 1]] — 5 seasons represented
+- [[Pennyworth — Season 1]] — 3 seasons represented
+- [[Peacemaker — Season 1]] — 2 seasons represented
+- [[Swamp Thing — Season 1]] — 1 seasons represented
+- [[Constantine — Season 1]] — 1 seasons represented
+- [[Krypton — Season 1]] — 2 seasons represented
+- [[Gotham Knights — Season 1]] — 1 seasons represented
+- [[Superman & Lois — Season 1]] — 4 seasons represented
+- [[The Sandman — Season 1]] — 2 seasons represented
+- [[Lucifer — Season 1]] — 6 seasons represented

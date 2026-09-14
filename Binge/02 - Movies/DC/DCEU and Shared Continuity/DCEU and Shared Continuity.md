@@ -1,0 +1,17 @@
+# DCEU and Shared Continuity
+
+- [[01 - Man of Steel]]
+- [[02 - Batman v Superman: Dawn of Justice]]
+- [[03 - Suicide Squad]]
+- [[04 - Wonder Woman]]
+- [[05 - Justice League]]
+- [[06 - Aquaman]]
+- [[07 - Shazam!]]
+- [[08 - Birds of Prey]]
+- [[09 - Wonder Woman 1984]]
+- [[10 - The Suicide Squad]]
+- [[11 - Black Adam]]
+- [[12 - Shazam! Fury of the Gods]]
+- [[13 - The Flash]]
+- [[14 - Blue Beetle]]
+- [[15 - Aquaman and the Lost Kingdom]]

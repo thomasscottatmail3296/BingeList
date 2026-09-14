@@ -1,0 +1,60 @@
+/* Binge Vault — Nerd Font glyph fallback
+ *
+ * Purpose:
+ * Keep normal prose in Obsidian's selected text font, while letting
+ * Nerd Font supply only characters that the normal font does not contain.
+ *
+ * This avoids turning the whole vault into monospace.
+ */
+
+/* Use the installed/bundled Nerd Font as a fallback font.
+   The browser will use it only for missing glyphs. */
+@font-face {
+  font-family: "Binge Vault Glyph Fallback";
+  src: url("../fonts/JetBrainsMonoNerdFont-Bold.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Reading/preview mode */
+.markdown-preview-view,
+.markdown-preview-view p,
+.markdown-preview-view li,
+.markdown-preview-view blockquote,
+.markdown-preview-view td,
+.markdown-preview-view th {
+  font-family:
+    var(--font-text),
+    "Binge Vault Glyph Fallback",
+    sans-serif;
+}
+
+/* Live Preview / source editor */
+.markdown-source-view.mod-cm6 .cm-content,
+.markdown-source-view.mod-cm6 .cm-line {
+  font-family:
+    var(--font-text),
+    "Binge Vault Glyph Fallback",
+    sans-serif;
+}
+
+/* Keep code blocks on the full Nerd Font, as they already work correctly. */
+.markdown-preview-view code,
+.markdown-preview-view pre,
+.markdown-source-view .cm-inline-code,
+.markdown-source-view .HyperMD-codeblock {
+  font-family:
+    "Binge Vault JetBrains Mono",
+    var(--font-monospace),
+    monospace;
+}
+
+/* Optional: explicit technical glyph spans can force the Nerd Font.
+   Example: <span class="nerd-glyph">󰀻</span> */
+.nerd-glyph {
+  font-family:
+    "Binge Vault Glyph Fallback",
+    "Binge Vault JetBrains Mono",
+    monospace;
+}
