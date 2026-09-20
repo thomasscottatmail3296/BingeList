@@ -1,0 +1,18 @@
+{
+  "batch": "225",
+  "root": "Binge V6 - Codex",
+  "generated": "2026-09-19",
+  "files": 3533,
+  "markdown_files": 3504,
+  "empty_markdown": 0,
+  "paths_over_240": 0,
+  "double_space_filenames": 0,
+  "wikilinks_scanned": 16543,
+  "missing_wikilinks": 3765,
+  "ambiguous_wikilinks": 1508,
+  "orphan_candidates": 2966,
+  "duplicate_stem_groups": 478,
+  "v5_immutable_reference": true,
+  "github_commit_performed": true,
+  "next": "Batches 226–229: continue targeted audits of remaining franchise and collection navigation."
+}

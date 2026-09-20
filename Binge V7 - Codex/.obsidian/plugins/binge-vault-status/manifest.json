@@ -1,0 +1,9 @@
+{
+  "id": "binge-vault-status",
+  "name": "Binge Vault Status Control",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Canonical three-value watch-status picker for Binge Vault media notes.",
+  "author": "Binge Vault",
+  "isDesktopOnly": false
+}
