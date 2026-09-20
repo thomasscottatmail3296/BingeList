@@ -81,7 +81,10 @@ Relationship labels used throughout the vault:
 
 ## Marvel
 
-- **[MASTER FRANCHISE HUB]** [[Marvel]]
+- **[MASTER FRANCHISE HUB]** [[../../04 - Franchises/Marvel|Marvel]]
+- **[MCU WATCH INDEX]** [[../../04 - Franchises/Marvel MCU Phase 1|MCU Phase 1]] → [[../../04 - Franchises/Marvel MCU Phase 6|MCU Phase 6]]
+- **[MARVEL TV INDEX]** [[../../04 - Franchises/Marvel TV — Watch Index|Marvel TV]]
+- **[MARVEL ANIMATION INDEX]** [[../../04 - Franchises/Marvel Animation — Watch Index|Marvel Animation]]
 - **[SHARED UNIVERSE]** Marvel Cinematic Universe *(hub not yet materialized)*
 - **[RELATED / LEGACY]** Marvel Television Universe / Legacy MCU Television
 
