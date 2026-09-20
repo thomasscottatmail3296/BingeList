@@ -23,7 +23,7 @@ generated_from: "01 - TV Shows, 02 - Movies, 03 - Documentaries, 04 - Franchises
 - [ ] [[../01 - TV Shows/Family Guy/Family Guy|Family Guy]]
 - [ ] [[../01 - TV Shows/Futurama/Futurama|Futurama]]
 - [ ] [[../01 - TV Shows/Lucifer/Lucifer|Lucifer]]
-- [ ] [[../01 - TV Shows/Marvel/The Punisher_ One Last Kill.md|Marvel]]
+- [ ] [[../04 - Franchises/Marvel.md|Marvel]]
 - [ ] [[../01 - TV Shows/New Who/New Who|New Who]]
 - [ ] [[../01 - TV Shows/Rick and Morty/Rick and Morty|Rick and Morty]]
 - [ ] [[../01 - TV Shows/Rick and Morty - The Anime/Rick and Morty - The Anime|Rick and Morty - The Anime]]
@@ -70,6 +70,8 @@ generated_from: "01 - TV Shows, 02 - Movies, 03 - Documentaries, 04 - Franchises
 - [ ] [[../04 - Franchises/The Entire David Attenborough Film Set.md|The Entire David Attenborough Film Set]]
 - [ ] [[../04 - Franchises/The Mario Movie Collection.md|The Mario Movie Collection]]
 - [ ] [[../04 - Franchises/The Scream Collection.md|The Scream Collection]]
+- [ ] [[../04 - Franchises/The Incredibles/The Incredibles.md|The Incredibles]]
+- [ ] [[../04 - Franchises/How to Train Your Dragon/How to Train Your Dragon.md|How to Train Your Dragon]]
 - [ ] [[../04 - Franchises/The Simpsons/The Simpsons.md|The Simpsons]]
 
 ## ◇ Core maps
