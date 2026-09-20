@@ -1,0 +1,23 @@
+{
+  "version": "V8",
+  "source_version": "V7",
+  "root": "Binge V8 - Codex",
+  "generated": "2026-09-20",
+  "latest_batch": "236",
+  "files": 3562,
+  "markdown_files": 3533,
+  "empty_markdown": 0,
+  "paths_over_240": 0,
+  "double_space_filenames": 0,
+  "wikilinks_scanned": 16543,
+  "missing_wikilinks": 3765,
+  "ambiguous_wikilinks": 1508,
+  "orphan_candidates": 2966,
+  "duplicate_stem_groups": 478,
+  "v5_immutable_reference": true,
+  "v6_immutable_reference": true,
+  "v7_immutable_reference": true,
+  "source_v7_tree": "a2a6757a170f544e1a7c528ba05f78b8ed78761e",
+  "notes": "V8 was seeded as a copy of the authoritative V7 tree. Batch 236 creates a working V8 copy and moves every existing SxxExx episode note into its own episode folder without changing note contents. One new Dev Log entry is added.",
+  "next": "Continue targeted V8 architecture/integrity work from the copied V7 state."
+}
