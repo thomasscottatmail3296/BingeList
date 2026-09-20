@@ -3,9 +3,9 @@
   "source_version": "V6",
   "root": "Binge V7 - Codex",
   "generated": "2026-09-20",
-  "latest_batch": "234",
-  "files": 3556,
-  "markdown_files": 3527,
+  "latest_batch": "235",
+  "files": 3557,
+  "markdown_files": 3528,
   "empty_markdown": 0,
   "paths_over_240": 0,
   "double_space_filenames": 0,
@@ -17,6 +17,6 @@
   "v5_immutable_reference": true,
   "v6_immutable_reference": true,
   "source_v6_tree": "9547e463f1fb5a166a3888b2d5eb16e422b3f512",
-  "notes": "V7 was seeded from the recovered latest V6 edition. Batches 210-225 are retained as carried-forward work.",
+  "notes": "V7 was seeded from the recovered latest V6 edition. Batches 210-234 are retained as carried-forward work.",
   "next": "Continue the next targeted franchise/collection integrity block from the existing V7 architecture."
 }
