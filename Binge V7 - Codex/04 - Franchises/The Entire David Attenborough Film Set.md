@@ -8,12 +8,15 @@ status: "Not Watched"
 
 ## Collection hub
 
-> [!abstract]- Wikipedia source
-> [The Entire David Attenborough Film Set](https://en.wikipedia.org/wiki/David_Attenborough_filmography)
+> [!abstract]- Existing source collection
+> This hub preserves the existing recovered collection itemization.
 
-- [ ] Work through collection
-- [ ] Add child notes for individual films/seasons when scope is settled
+## Existing source itemization
 
+- [[../99 - Inbox/The Entire David Attenborough Film Set ΓÇö full itemization|Full itemization]]
+
+## Scope
+
+This hub provides a canonical entry point to the existing itemization without duplicating it.
 
 ## Personal notes
-
