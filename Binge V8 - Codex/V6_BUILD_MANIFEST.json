@@ -3,9 +3,9 @@
   "source_version": "V7",
   "root": "Binge V8 - Codex",
   "generated": "2026-09-20",
-  "latest_batch": "236",
-  "files": 3562,
-  "markdown_files": 3533,
+  "latest_batch": "237",
+  "files": 3563,
+  "markdown_files": 3534,
   "empty_markdown": 0,
   "paths_over_240": 0,
   "double_space_filenames": 0,
@@ -14,10 +14,12 @@
   "ambiguous_wikilinks": 1508,
   "orphan_candidates": 2966,
   "duplicate_stem_groups": 478,
+  "episode_notes": 2606,
+  "episode_notes_outside_episode_folders": 0,
   "v5_immutable_reference": true,
   "v6_immutable_reference": true,
   "v7_immutable_reference": true,
   "source_v7_tree": "a2a6757a170f544e1a7c528ba05f78b8ed78761e",
-  "notes": "V8 was seeded as a copy of the authoritative V7 tree. Batch 236 creates a working V8 copy and moves every existing SxxExx episode note into its own episode folder without changing note contents. One new Dev Log entry is added.",
-  "next": "Continue targeted V8 architecture/integrity work from the copied V7 state."
+  "notes": "Batch 237 re-anchors V8 to the older continuation prompt's main vault-architecture goal. It verifies which old findings are already resolved in V8, records remaining integrity work, and deliberately defers dependency-unsafe renames until path/reference audits are complete.",
+  "next": "Run the V8 path-aware reference audit after the episode-folder migration, then rebuild technical navigation from verified V8 paths."
 }
