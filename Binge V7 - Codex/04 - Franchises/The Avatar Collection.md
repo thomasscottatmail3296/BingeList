@@ -11,9 +11,12 @@ status: "Not Watched"
 > [!abstract]- Wikipedia source
 > [The Avatar Collection](https://en.wikipedia.org/wiki/Avatar_(franchise))
 
-- [ ] Work through collection
-- [ ] Add child notes for individual films/seasons when scope is settled
+## Existing source watchlist
 
+- [[../99 - Inbox/The Avatar Collection ΓÇö full watchlist|Full Avatar collection watchlist]]
+
+## Scope
+
+The hub points to the existing recovered watchlist source. No child media notes are invented here.
 
 ## Personal notes
-
