@@ -11,9 +11,12 @@ status: "Not Watched"
 > [!abstract]- Wikipedia source
 > [The Scream Collection](https://en.wikipedia.org/wiki/Scream_(franchise))
 
-- [ ] Work through collection
-- [ ] Add child notes for individual films/seasons when scope is settled
+## Materialization status
 
+The V7 tree currently contains this canonical collection hub, but no separate Scream film or related child media notes were found under `Binge V7 - Codex`.
+
+## Scope
+
+Keep the collection hub as the canonical entry point. Do not invent child media notes until they are recovered or explicitly added from a verified source list.
 
 ## Personal notes
-
