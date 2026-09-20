@@ -59,6 +59,8 @@ generated_from: "01 - TV Shows, 02 - Movies, 03 - Documentaries, 04 - Franchises
 - [ ] [[../04 - Franchises/Marvel MCU Phase 4.md|Marvel MCU Phase 4]]
 - [ ] [[../04 - Franchises/Marvel MCU Phase 5.md|Marvel MCU Phase 5]]
 - [ ] [[../04 - Franchises/Marvel MCU Phase 6.md|Marvel MCU Phase 6]]
+- [ ] [[../04 - Franchises/Marvel TV — Watch Index.md|Marvel TV — Watch Index]]
+- [ ] [[../04 - Franchises/Marvel Animation — Watch Index.md|Marvel Animation — Watch Index]]
 - [ ] [[../04 - Franchises/Minecraft - Story Mode.md|Minecraft - Story Mode]]
 - [ ] [[../04 - Franchises/Supernatural - Related Productions.md|Supernatural]]
 - [ ] [[../04 - Franchises/Supernatural - Related Productions.md|Supernatural - Related Productions]]
